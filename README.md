@@ -1,4 +1,4 @@
-# Tsili
+# Tsili 😁
 Welcome to Tsili! This repository contains templates for daily planning, designed to help you organize your tasks, track your goals, and enhance your productivity.
 > __*Pronunciation Hint*__: Tsili sounds like "Tsee-lee," where the "Ts" is pronounced like the "ts" in "cats," and the "i" is pronounced like the "ee" in "see."
 
