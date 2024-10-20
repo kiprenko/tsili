@@ -1,4 +1,4 @@
-# Tsili 😁
+# Tsili
 Welcome to Tsili! This repository contains templates for daily planning, designed to help you organize your tasks, track your goals, and enhance your productivity.
 > __*Pronunciation Hint*__: Tsili sounds like "Tsee-lee," where the "Ts" is pronounced like the "ts" in "cats," and the "i" is pronounced like the "ee" in "see."
 
@@ -26,7 +26,7 @@ Feel free to contribute! If you have suggestions for new templates or features, 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Author 🦝🦝🦝
+## Author 🦝
 - Name: Yevhenii Kiprenko
 - Email: zhenyakiprenko@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kiprenko/)
