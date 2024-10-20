@@ -26,7 +26,7 @@ Feel free to contribute! If you have suggestions for new templates or features, 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Author 🦝
+## Author 🦝🦝🦝
 - Name: Yevhenii Kiprenko
 - Email: zhenyakiprenko@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kiprenko/)
